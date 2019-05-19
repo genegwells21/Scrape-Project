@@ -1,0 +1,50 @@
+body{
+    background-color: plum;
+}
+
+#wrapper    {
+    width: 75%;
+    margin-left: 11%;
+    margin-right: 10%;
+    padding-top: 5%;
+}
+
+#articles   {
+    display: inline-block;
+    overflow: auto;
+    width: 69%;
+    height: 700px;
+    color: white;
+    font-size: 20pxl
+}
+#centralInfo    {
+    color:white;
+}
+#centralInfo    h2    {
+    margin-bottom: 30px;
+}
+#Main-Section   {
+background: burlywood;
+}
+#notes  {
+    float: right;
+    width: 29%;
+    color: #333333;
+}
+#titleinput,
+#bodyinput  {
+    background: white;
+}
+textarea, input{
+    display: block;
+    width: 100%;
+    background-color: sliver;
+}
+input{
+    height: 36px;
+    font-size: 25px;
+}
+textarea    {
+    height: 200px;
+    font-size: 20px;
+}
